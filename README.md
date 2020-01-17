@@ -1,2 +1,2 @@
-# tickle_me_box
+# tickle_me
 Tickle Me
