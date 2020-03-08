@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* Colors
+ad62aa - purple
+eab9c9 - pink
+*/
+body{
+    color: #ad62aa;
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    position: relative;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.tickleFooter{
+    background-color: #eab9c9;
+    height: 5vh;
+    text-align: center;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+}
