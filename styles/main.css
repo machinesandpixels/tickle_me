@@ -8,10 +8,11 @@ ad62aa - purple
 eab9c9 - pink
 */
 body{
-    color: #ad62aa;
+    color: purple;
     font-family: 'Poppins', sans-serif;
     height: 100vh;
     position: relative;
+    opacity: 0.9;
 }
 
 .navBar{
@@ -23,19 +24,19 @@ body{
 
 ul > li {
     list-style-type: none;
-    padding: 3rem;
-    /* margin-left: 10%; */
+    padding: 3rem 1.5rem;
 }
 
 
 h1 {
     font-size: 3rem;
     text-align: center;
+    text-shadow: .2rem .2rem .2rem #ad62aa;
 }
 
 .tickleFooter{
-    background-color: #eab9c9;
-    height: 5vh;
+    background-color: purple;
+    height: 7vh;
     text-align: center;
     width: 100vw;
     position: absolute;
