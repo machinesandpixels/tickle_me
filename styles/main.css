@@ -34,6 +34,11 @@ h1 {
     text-shadow: .2rem .2rem .2rem #ad62aa;
 }
 
+.logo{
+   display: flex;
+   justify-content: center;
+}
+
 .tickleFooter{
     background-color: purple;
     height: 7vh;
